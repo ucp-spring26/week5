@@ -1,0 +1,13 @@
+body{
+    background-color: bisque;
+}
+ul>li>a{
+    text-decoration: none;
+    margin-left: 1em;
+}
+ul>li{
+    list-style-type: none;
+}
+ul{
+    display: flex;
+}

@@ -2,3 +2,14 @@ body{
     background-color: orange;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
+ul>li>a{
+    text-decoration: none;
+
+}
+ul{
+    display: flex;
+}
+ul>li{
+    margin-left: 1em;
+    list-style-type: none;
+}
